@@ -1,7 +1,7 @@
 # R-and-Python
 Is it possible to use both programs in our Data Science workflow? I believe it is! I'll try to make a comparison of these two to see whether using both will increase overall efficiency in Data Analysis and Machine Learning processes.
 
-1. [R & Python in One (Same) Notebook](https://github.com/kaymal/R-and-Python/blob/master/R%20%26%20Python%20in%20One%20Notebook.ipynbR & Python in One Notebook.ipynb)
+1. [R & Python in One (Same) Notebook](https://github.com/kaymal/R-and-Python/blob/master/R%20%26%20Python%20in%20One%20Notebook.ipynb)
 
     How to use R and Python in one Jupyter Notebook.
 
